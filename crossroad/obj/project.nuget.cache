@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "A7XSQqkqeIlJQ0+oFVLZMcKIzefMs7bgYBUJqvWRNDw47TvQJxDd/q2cF9byo8AO0P0edwO2/uXBtsJ8ukVPFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edvin.arvesjo\\Desktop\\C#\\crossroad\\crossroad\\crossroad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edvin.arvesjo\\.nuget\\packages\\raylib-cs\\4.2.0.2\\raylib-cs.4.2.0.2.nupkg.sha512",
+    "C:\\Users\\edvin.arvesjo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
